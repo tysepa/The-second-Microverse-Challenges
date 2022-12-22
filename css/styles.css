@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #fff;
+    font-family: "Poppins", sans-serif;
+    
+}
+#main{
+    z-index: 1;
+    background: rgb(211, 208, 208);
+    border: 1px solid rgb(211, 208, 208) ;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px 5px;
+    
+}
+#main h1{
+    color: #333;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 20px;
+   
+}
+#img-div{
+    background: #fafafa;
+    justify-content: center;
+    text-align: center;
+}
+#image{
+ max-width:100%;
+ height: auto;
+ align-items: center;
+ display:block;
+}
